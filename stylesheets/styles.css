@@ -15,3 +15,10 @@
     top: 50%;
     transform: translate(0%, 15%);
 }
+
+table tr:nth-child(odd) {
+    background: #FCE4D6;
+}
+table tr:nth-child(even) {
+    background: white;
+}
