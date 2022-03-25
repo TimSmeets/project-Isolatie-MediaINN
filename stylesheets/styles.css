@@ -53,3 +53,39 @@ table tr:nth-child(even) {
         background: #04AA6D;
         cursor: pointer;
     }
+
+.box {
+    top: 0;
+    top: 0px;
+    left: 0px;
+    float: left;
+    width: 99%;
+}
+
+.clear {
+    clear: both;
+}
+
+.iframe {
+    position: absolute;
+    top: 0;
+    top: 0px;
+    left: 0px;
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    height: 100%;
+    width: 50%;
+}
+
+.iframe2 {
+    position: absolute;
+    top: 0;
+    top: 0px;
+    right: 0px;
+    border-style: none;
+    border-color: inherit;
+    border-width: 0px;
+    height: 100%;
+    width: 50%;
+}
